@@ -1,0 +1,4008 @@
+STARTTIMING: main
+|   Measuring Quick Sort
+|   STARTTIMING: Random QuickSort 1000 Times
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.21ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.10ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.10ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.21ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.65ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.15ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.08ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.22ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.47ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.58ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.39ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 3.36ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.09ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.13ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.15ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 1.62ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.38ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 2.73ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.05ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.07ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.12ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.53ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.06ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.04ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.03ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.02ms
+|   |   STARTTIMING: quickSort()
+|   |   STOPTIMING: quickSort() 0.01ms
+|   STOPTIMING: Random BubbleSort 1000 Times 119.17ms
+|   Measuring Bubble Sort
+|   STARTTIMING: Random BubbleSort 1000 Times
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 9.13ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.10ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.10ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.12ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.16ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.19ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.09ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.10ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.67ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 4.33ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.07ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.05ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.05ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.04ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.06ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.05ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.30ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.10ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.04ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.05ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.08ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.04ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.05ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.01ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.23ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.37ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.11ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.03ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.04ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.16ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   |   STARTTIMING: bubbleSort()
+|   |   STOPTIMING: bubbleSort() 0.02ms
+|   STOPTIMING: Random BubbleSort 1000 Times 56.67ms
+STOPTIMING: main 190.66ms
